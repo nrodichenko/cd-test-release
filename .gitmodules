@@ -1,0 +1,8 @@
+[submodule "cd-test-app1"]
+	path = cd-test-app1
+	url = git@github.com:nrodichenko/cd-test-app1.git
+	branch = stable
+[submodule "cd-test-app2"]
+	path = cd-test-app2
+	url = git@github.com:nrodichenko/cd-test-app2.git
+	branch = stable
